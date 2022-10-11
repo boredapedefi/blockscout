@@ -436,7 +436,7 @@ msgstr ""
 
 #, elixir-format
 #: lib/block_scout_web/templates/layout/_footer.html.eex:22
-msgid "Blockscout is a tool for inspecting and analyzing EVM based blockchains. Blockchain explorer for Ethereum Networks."
+msgid "Exzo Network is a fast and efficient PoS EVM based blockchain."
 msgstr ""
 
 #, elixir-format
